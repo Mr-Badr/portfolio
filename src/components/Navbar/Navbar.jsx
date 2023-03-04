@@ -94,12 +94,12 @@ const Navbar = () => {
           </li>
           <li>
             <a href="#experience">
-              <span>02.</span>Experience
+              <span>02.</span>Work
             </a>
           </li>
           <li>
             <a href="#work">
-              <span>03.</span>Work
+              <span>03.</span>Experience
             </a>
           </li>
           <li>
@@ -110,7 +110,7 @@ const Navbar = () => {
         </ul>
 
         <div className="resume">
-          <a href="/">Resume</a>
+          <a href={Pdf}>Resume</a>
         </div>
 
         <button className="close-menu" onClick={() => setMobileNav(false)}>
