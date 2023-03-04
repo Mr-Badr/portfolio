@@ -1,6 +1,7 @@
 import React from "react";
 import useScroll from "../../hooks/useScroll";
 import "./Navbar.scss";
+import Pdf from "./CV.pdf";
 
 const Navbar = () => {
   const { scrollY, scrollDirection } = useScroll();
@@ -64,7 +65,9 @@ const Navbar = () => {
             data-aos-delay="700"
             data-aos-duration="700"
           >
-            <a href="/">Resume</a>
+            <a href={Pdf} target="_blank">
+              Resume
+            </a>
           </div>
         </div>
 

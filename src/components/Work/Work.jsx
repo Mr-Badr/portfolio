@@ -77,7 +77,7 @@ const Work = () => {
                 </ul>
                 <div className="project_links">
                   <a
-                    href="https://github.com/Mr-Badr/Full-Stack-Amazon-Clone"
+                    href="https://www.linkedin.com/posts/badr-eddine-el-harchali_mernstackdeveloper-webdevelopment-reactjs-activity-6938508950304657409-IreL?utm_source=share&utm_medium=member_desktop"
                     target="_blank"
                   >
                     <GithubIcon />
@@ -130,7 +130,10 @@ const Work = () => {
                   >
                     <GithubIcon />
                   </a>
-                  <a href="" target="_blank">
+                  <a
+                    href="https://www.linkedin.com/posts/badr-eddine-el-harchali_mernstackdeveloper-webdevelopment-reactjs-activity-6938508950304657409-IreL?utm_source=share&utm_medium=member_desktop"
+                    target="_blank"
+                  >
                     <ExternalIcon />
                   </a>
                 </div>
