@@ -41,6 +41,22 @@ const GithubIcon = () => {
   );
 };
 
+const VideoIcon = () => {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="20"
+      height="20"
+      fill="currentColor"
+      class="bi bi-play-fill"
+      viewBox="0 0 14 14"
+    >
+      <title>Video</title>
+      <path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z" />{" "}
+    </svg>
+  );
+};
+
 const Work = () => {
   return (
     <section className="work scroll-mt-10" id="work">
@@ -131,10 +147,10 @@ const Work = () => {
                     <GithubIcon />
                   </a>
                   <a
-                    href="https://www.linkedin.com/posts/badr-eddine-el-harchali_mernstackdeveloper-webdevelopment-reactjs-activity-6938508950304657409-IreL?utm_source=share&utm_medium=member_desktop"
+                    href="https://photos.google.com/share/AF1QipNPbSvB6g7rvDezaaj7dX03b2VZY0MvpU5ww3hXw2raH7BfcgNsj3biSf9uWeVbOg/photo/AF1QipNwqhMorAIlo9paIqXgi7D9xqSMwalCb5aU_3OV?key=UTVjTWFhT1VaS2pjUzgxSkN0MF9SVXc4R1VvZ3lR"
                     target="_blank"
                   >
-                    <ExternalIcon />
+                    <VideoIcon />
                   </a>
                 </div>
               </div>
