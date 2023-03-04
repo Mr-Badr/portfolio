@@ -15,10 +15,10 @@ const ProjectCard = ({ project }) => {
 						</div>
 
 						<div className="project_links">
-							<a href="" target="_blank">
+							<a href={project.github} target="_blank">
 								<GithubIcon />
 							</a>
-							<a href="" target="_blank">
+							<a href={project.live} target="_blank">
 								<ExternalIcon />
 							</a>
 						</div>

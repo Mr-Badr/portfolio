@@ -50,43 +50,55 @@ export const jobs = [
 export const projects = [
   {
     id: 1,
-    title: "Integrating Algolia Search with WordPress Multisite",
+    title: "Tic-tac-toe Game",
     description:
-      "Building a custom multisite compatible WordPress plugin to build global search with Algolia",
-    tech: ["Algolia", "WordPress", "PHP"],
+      "Player-1 starts playing the game and both the players make their moves in consecutive turns. The player who makes a straight 3-block chain wins the game.",
+    tech: ["HTML", "CSS", "JavaScript"],
+    github: "https://github.com/Mr-Badr/Tic-tac-toe",
+    live: "https://mr-badr.github.io/Tic-tac-toe/",
   },
   {
     id: 2,
-    title: "Time to Have More Fun",
+    title: "Random Quote Generator",
     description:
-      "A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS",
-    tech: ["Next.js", "Tailwind CSS", "Firebase"],
+      "this is a ReactJS API data fetching project. We have React on the front end and we'll make get requests to Advice Slip JSON API.",
+    tech: ["React.js", "API", "Bootstrap"],
+    github: "https://github.com/Mr-Badr/Random-Quote-Generator",
+    live: "https://great-random-quotes.netlify.app",
   },
   {
     id: 3,
-    title: "Building a Headless Mobile App CMS From Scratch",
+    title: "Weather application",
     description:
-      "Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement",
-    tech: ["Node", "Express", "Firebase", "Vue"],
+      "React JS weather app using the OpenWeatherMap API. We will be using Axios to connect with our API.",
+    tech: ["React.js", "Axios", "API"],
+    github: "https://github.com/Mr-Badr/weather-app-react",
+    live: "https://weather-web-appp.netlify.app",
   },
   {
     id: 4,
-    title: "OctoProfile",
+    title: "To Do List",
     description:
-      "A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.",
-    tech: ["Next.js", "Chart.js", "Github API"],
+      "JavaScript Todo List helps you create a list of things you want to do throughout the day",
+    tech: ["HTML", "CSS", "JavaScript"],
+    github: "https://github.com/Mr-Badr/vanilla-todo-list",
+    live: "https://mr-badr.github.io/vanilla-todo-list/",
   },
   {
     id: 5,
-    title: "Google Keep Clone",
-    description: "A simple Google Keep clone built with Vue and Firebase.",
-    tech: ["Vue", "Firebase"],
+    title: "Google Maps Clone",
+    description: "A simple Google Maps Clone built with Vanilla JavaScript.",
+    tech: ["HTML", "CSS", "JavaScript"],
+    github: "https://github.com/Mr-Badr/Google-Maps-Clone",
+    live: "https://mr-badr.github.io/Google-Maps-Clone/",
   },
   {
     id: 6,
-    title: "Apple Music Embeddable Web Player Widget",
+    title: "Simple Responsive Website",
     description:
-      "Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser.",
-    tech: ["MusicKit.js", "JavaScript", "SCSS"],
+      "This is a Responsive Website built only with HTML and CSS.",
+    tech: ["HTML", "CSS", "Media Queries"],
+    github: "https://github.com/Mr-Badr/Travel-website",
+    live: "https://mr-badr.github.io/Travel-website/",
   },
 ];
