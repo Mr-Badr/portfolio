@@ -193,7 +193,7 @@ const Work = () => {
                   >
                     <GithubIcon />
                   </a>
-                  <a href="mr-badr.github.io/bank_modern_app/" target="_blank">
+                  <a href="https://mr-badr.github.io/bank_modern_app/" target="_blank">
                     <ExternalIcon />
                   </a>
                 </div>
