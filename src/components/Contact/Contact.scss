@@ -5,7 +5,7 @@
 
 @layer components {
 	.contact {
-		@apply relative max-w-[600px] mx-auto mb-[65px] py-[100px] flex flex-col items-center justify-center tablet-lg:mb-[50px] mobile-lg:py-[60px];
+		@apply relative max-w-[600px] mx-auto mb-[100px] py-[100px] flex flex-col items-center justify-center tablet-lg:mb-[50px] mobile-lg:py-[60px];
 
 		.container {
 			@apply flex flex-col items-center justify-center;
