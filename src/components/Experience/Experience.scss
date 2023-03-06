@@ -5,7 +5,7 @@
 
 @layer components {
 	.experience {
-		@apply w-full min-h-screen max-w-[700px] mx-auto flex items-center justify-center;
+		@apply w-full min-h-screen max-w-[700px] mx-auto flex items-center justify-center tablet-lg:py-[500px];
 
 		.container {
 			@apply w-full;
@@ -97,4 +97,11 @@
 			}
 		}
 	}
+	@media (min-width: 768px) {
+    .experience {
+			min-height: 60vh;
+			padding: 200px 0;
+		}
+	}
+
 }

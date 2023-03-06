@@ -51,7 +51,7 @@
 	}
 
 	.footer {
-		@apply h-[70px] text-[12px] leading-[12px] text-center mb-5;
+		@apply h-[70px] text-[12px] leading-[12px] text-center mb-5 tablet-lg:mb-[50px] mobile-lg:py-[60px];
 
 		color: $light-slate1;
 
