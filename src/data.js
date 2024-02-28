@@ -12,17 +12,25 @@ export const jobs = [
   },
   {
     id: 2,
-    title: "",
-    company: "New place!",
-    time: "",
-    points: [],
+    title: "Frontend Web Developer Intern",
+    company: "WimTech",
+    time: "Oct 2023 - Jan 2024",
+    points: [
+      "I'm working at Wimtech as a front-end developer intern. I use many amazing technologies on a daily basis, such as React, NextJS, Tailwind CSS, etc.",
+      "I contributed to an existing project by adding new features and fixing some issues.",
+      "Skills: REST APIs · React.js · Next.js · Tailwind CSS · Angular · Git ..."
+    ],
   },
   {
     id: 3,
-    title: "",
-    company: "New place!",
+    title: "Full-stack Developer",
+    company: "WimTech",
     time: "",
-    points: [],
+    points: [
+      "As a full-stack developer at Wimtech, I successfully addressed diverse challenges by leveraging a range of technologies, contributing to the development of robust solutions.",
+      "Throughout my role, I adeptly navigated between front-end and back-end development tasks, collaborating on various projects. This involved implementing new features, resolving issues, and ensuring the seamless integration of multiple technologies.",
+      "Skills: Angular · Bootstrap · React · REST API · Spring Boot · Git/GitLab ..."
+    ],
   },
   {
     id: 4,
