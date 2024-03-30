@@ -27,12 +27,12 @@ const Experience = () => {
               className={tab === 1 ? "active" : ""}
               onClick={() => setTab(1)}
             >
-              Soon
+              WimTech
             </button>
             <button
               className={tab === 2 ? "active" : ""}
               onClick={() => setTab(2)}
-            ></button>
+            >WimTech</button>
             <button
               className={tab === 3 ? "active" : ""}
               onClick={() => setTab(3)}
