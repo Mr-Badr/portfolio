@@ -23,9 +23,9 @@ export const jobs = [
   },
   {
     id: 3,
-    title: "Full-stack Developer",
+    title: "Full-stack Developer ( Angular - Spring Boot )",
     company: "WimTech",
-    time: "",
+    time: "Feb 2024",
     points: [
       "As a full-stack developer at Wimtech, I successfully addressed diverse challenges by leveraging a range of technologies, contributing to the development of robust solutions.",
       "Throughout my role, I adeptly navigated between front-end and back-end development tasks, collaborating on various projects. This involved implementing new features, resolving issues, and ensuring the seamless integration of multiple technologies.",
@@ -34,10 +34,13 @@ export const jobs = [
   },
   {
     id: 4,
-    title: "",
-    company: "New place!",
-    time: "",
-    points: [],
+    title: "Full-stack Developer ( NextJs )",
+    company: "Logiciel Lab",
+    time: "May 2024",
+    points: [
+      "Developed a Next.js full-stack application for an online school platform. Key responsibilities included implementing a responsive website, integrating NextAuth for secure login and registration," 
+      "and creating role-based dashboards for various user roles. Utilized Prisma for efficient data management with PostgreSQL as the database backend. Technologies used: Next.js, NextAuth, Prisma, PostgreSQL, and Charts.js."
+    ],
   },
   {
     id: 5,
