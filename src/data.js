@@ -38,8 +38,8 @@ export const jobs = [
     company: "Logiciel Lab",
     time: "May 2024",
     points: [
-      "Developed a Next.js full-stack application for an online school platform. Key responsibilities included implementing a responsive website, integrating NextAuth for secure login and registration," 
-      "and creating role-based dashboards for various user roles. Utilized Prisma for efficient data management with PostgreSQL as the database backend. Technologies used: Next.js, NextAuth, Prisma, PostgreSQL, and Charts.js."
+      "Developed a Next.js full-stack application for an online school platform. Key responsibilities included implementing a responsive website, integrating NextAuth for secure login and registration,", 
+      "and creating role-based dashboards for various user roles. Utilized Prisma for efficient data management with PostgreSQL as the database backend. Technologies used: Next.js, NextAuth, Prisma, PostgreSQL, and Charts.js.",
     ],
   },
   {
