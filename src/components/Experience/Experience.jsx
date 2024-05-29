@@ -36,7 +36,7 @@ const Experience = () => {
             <button
               className={tab === 3 ? "active" : ""}
               onClick={() => setTab(3)}
-            ></button>
+            >Logiciel Lab</button>
             <button
               className={tab === 4 ? "active" : ""}
               onClick={() => setTab(4)}
