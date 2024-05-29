@@ -369,7 +369,7 @@ const Work = () => {
                     <GithubIcon />
                   </a>
                   <a
-                    href="https://mr-badr.github.io/bank_modern_app/"
+                    href="https://testforwebloo.vercel.app/"
                     target="_blank"
                   >
                     <ExternalIcon />
