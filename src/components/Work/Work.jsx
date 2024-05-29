@@ -363,7 +363,7 @@ const Work = () => {
                 </ul>
                 <div className="project_links">
                   <a
-                    href="https://github.com/Mr-Badr/bank_modern_app"
+                    href="https://testforwebloo.vercel.app/"
                     target="_blank"
                   >
                     <GithubIcon />
